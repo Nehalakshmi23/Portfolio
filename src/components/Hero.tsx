@@ -38,7 +38,7 @@ const Hero = () => {
           {/* CTA Buttons */}
           <div className="flex flex-wrap items-center justify-center gap-4 mb-16 opacity-0 animate-fade-in animation-delay-400">
             <Button variant="hero" size="lg" asChild>
-              <a href="https://drive.google.com/file/d/1OsRGsg_wVHpoGdRZPnYLsckHBJt_IzUM/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/file/d/19NVulkwAjrTka2on-pJcmb1YRIiU0Q7q/view" target="_blank" rel="noopener noreferrer">
                 <FileText className="mr-2" />
                 View Resume
               </a>
