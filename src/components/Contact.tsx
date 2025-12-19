@@ -6,7 +6,7 @@ const contactLinks = [
   {
     icon: FileText,
     label: "View Resume",
-    href: "https://drive.google.com/file/d/19NVulkwAjrTka2on-pJcmb1YRIiU0Q7q/view?usp=drive_link",
+    href: "https://drive.google.com/file/d/19NVulkwAjrTka2on-pJcmb1YRIiU0Q7q/view?usp=sharing",
     description: "My skills, projects & achievements",
   },
   {
